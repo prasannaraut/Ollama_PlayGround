@@ -1,4 +1,4 @@
-# Ollama Gemma 4 Web Search Chat Assistant
+# Ollama gemma4:e4b Web Search Chat Assistant
 
 A modern, responsive, and robust Streamlit chat application powered by **Ollama (gemma4:e4b)** with an integrated **Web Search Tool**. This application retains chat history across active sessions and allows full configuration of runtime parameters via an interactive sidebar.
 
